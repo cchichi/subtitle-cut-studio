@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv*/
+out/
+asr_models/
+剪辑台.html
+预览视频.mp4
+成片.mp4
+witch_decisions.json
+*.wav
+*.mp4
+*.mov
